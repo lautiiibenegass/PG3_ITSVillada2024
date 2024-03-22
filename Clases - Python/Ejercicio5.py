@@ -44,4 +44,3 @@ empleado = Empleado("", 0, 0)
 empleado.pagar_impuestos()
 empleado.cargar_datos()
 empleado.imprimir_datos()
-
