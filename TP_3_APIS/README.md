@@ -6,7 +6,7 @@ API Utilizada
 La API utilizada es la siguiente:
 
     API Endpoint: https://api.brawlstars.com/v1/rankings/global/players?limit=100
-    Descripción: Esta API proporciona los datos de los jugadores clasificados globalmente en Brawl Stars, incluyendo su nombre, rango, trofeos y club al que pertenecen.
+    Descripción: Esta API proporciona los datos de los jugadores clasificados globalmente en Brawl Stars, incluyendo su nombre, rango, trofeos (estadistica privada, por eso todods se mustran como 1) y club al que pertenecen.
 
 Configuración y Uso
 
